@@ -1,3 +1,3 @@
 # DuckBot
-Bot of Ducktect
+Bot of Ducktect,
 Gherard Chipana - CEO DuckBot
